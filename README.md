@@ -3,7 +3,7 @@
 </h1>
 <p align="center">Observability is an extremely important practice so that you have an idea of what is happening in your app and receive updates from new interactions.</p>
 
-See a **How to build** blog post in dev.to:
+See a **How to build** blog post in dev.to: https://dev.to/vinibgoulart/how-to-monitor-an-app-in-production-using-discord-chanels-foh
 
 ## How To Run
 ### Requirements
